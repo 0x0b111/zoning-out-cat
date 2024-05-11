@@ -13,7 +13,7 @@ function Timeline(){
                         <h1 className="text-3xl md:text-5xl text-indigo-600 font-bold mb-2 md:mb-4">Supply: 1,000,000,000</h1>
                         <h1 className="text-3xl md:text-5xl text-gray-100 font-bold mb-2 md:mb-4">ZONING OUT CAT</h1>
                         <h1 className="text-3xl md:text-5xl text-indigo-600 font-bold mb-2 md:mb-4">CA:</h1>
-                        <h1 className="text-3xl md:text-5xl text-indigo-600 font-bold mb-2 md:mb-4">012900930293402930293209302</h1>
+                        <h1 className="text-3xl md:text-5xl text-indigo-600 font-bold mb-2 md:mb-4">BJAHxzddV9gxGW4XoaqoU9Gj4UkCASRUnkPyeBz2DMnK</h1>
                     </div>
                     <div className="flex justify-center items-center md:w-1/2 pl-4">
                         <img src={zcat} alt="" className="w-full md:max-w-full" style={{ height: 'auto' }} />

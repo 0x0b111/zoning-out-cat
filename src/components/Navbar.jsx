@@ -10,7 +10,7 @@ function Navbar(){
                     <li><a href="https://twitter.com/ZoningOutCatSol">Twitter</a></li>
                     <li><a href="https://t.me/ZoningOutCat_SOL">Telegram</a></li>
                     <li><a href="">Dexscreener</a></li>
-                    <li><a href="">Solscan</a></li>
+                    <li><a href="https://solscan.io/token/BJAHxzddV9gxGW4XoaqoU9Gj4UkCASRUnkPyeBz2DMnK">Solscan</a></li>
                 </ul>
 
                 <div className="text-white">
